@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import ScrollGallery from './components/ScrollGallery';
@@ -11,7 +10,7 @@ import Features from './pages/Features';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/windlightisland">
       <div className="bg-black text-white min-h-screen">
         <Navbar />
         <Routes>
