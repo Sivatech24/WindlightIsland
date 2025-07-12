@@ -109,7 +109,7 @@ Built with love and creativity by the BreakItDown Team.
 ## 💡 Development Info
 
 - Engine: Unreal Engine 5  
-- Platform: Windows (supports DirectX 11, 12, and Vulkan)  
+- Platform: Windows (supports DirectX 11 and 12)  
 - Category: Adventure / Exploration  
 - Project Type: Single-player  
 
