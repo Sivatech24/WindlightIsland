@@ -42,12 +42,12 @@ You must explore a detailed island world and **collect 3 mystical lanterns** hid
 🎮 GAME CREDITS  
 Developed by BreakItDown Team
 
-──────────────────────────────
+---
 🔧 GAME ENGINE & TOOLS  
 Powered by Unreal Engine  
 Built with love and creativity by the BreakItDown Team.
 
-──────────────────────────────  
+---
 🧩 3D ASSETS FROM EPIC GAMES STORE  
 
 - Stylized Environment Set  
@@ -68,7 +68,7 @@ Built with love and creativity by the BreakItDown Team.
 - Stylized Grassland Environment  
   https://www.fab.com/listings/dc4dc139-f3a3-4375-875f-d1831506953e  
 
-──────────────────────────────  
+--- 
 🔊 SOUND EFFECTS FROM PIXABAY  
 
 - Forest Ambience  
